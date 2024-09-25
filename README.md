@@ -1,6 +1,6 @@
 # weather_forecasts
 
-A new Flutter project.
+A new Flutter project. Second try.
 
 ## Getting Started
 
