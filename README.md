@@ -1,6 +1,6 @@
 # weather_forecasts
 
-Flutter project Test second method to merge.
+Flutter project Test second method.
 
 ## Getting Started
 
