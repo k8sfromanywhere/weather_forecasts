@@ -1,0 +1,2 @@
+/Users/ekaterinasidorina/projects/weather_forecasts/android/app/.cxx/Debug/3p174p66/x86_64/CMakeFiles/edit_cache.dir
+/Users/ekaterinasidorina/projects/weather_forecasts/android/app/.cxx/Debug/3p174p66/x86_64/CMakeFiles/rebuild_cache.dir
