@@ -2,6 +2,7 @@ import 'package:equatable/equatable.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:location/location.dart';
 import 'package:weather/weather.dart';
+
 import 'package:weather_forecasts/data/data.dart';
 
 part 'weather_bloc_event.dart';
